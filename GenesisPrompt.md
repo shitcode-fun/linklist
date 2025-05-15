@@ -1,0 +1,1 @@
+Build a Next.js app where users can paste URLs and receive AI-generated summaries of the content. Use OpenAI's API to fetch summaries and auto-generate tags. Each saved link should display the title, summary, favicon, and optional notes. Include basic user auth, search/filter functionality, and export to markdown. Use TailwindCSS for styling and store data locally or in MongoDB.
