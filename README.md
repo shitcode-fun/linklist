@@ -1,0 +1,2 @@
+# linklist
+LinkList AI is a smart bookmarking app that uses AI to summarize and organize links. Users paste URLs, and the app fetches content, generates concise summaries, and auto-tags entries for easy reference. Built with Next.js, it’s the perfect tool to turn link clutter into a searchable, organized, and exportable knowledge base.
